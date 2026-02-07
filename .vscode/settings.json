@@ -1,0 +1,13 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 12.5,
+    "window.zoomLevel": 1.1,
+    "workbench.colorCustomizations": {
+        "sideBar.foreground": "#000000",
+        // "gitDecoration.ignoredResourceForeground": "#000000",     // git忽略的文件
+        // "gitDecoration.modifiedResourceForeground": "#000000",    // 已修改的文件
+        // "gitDecoration.untrackedResourceForeground": "#000000",   // 未跟踪的文件
+        // "gitDecoration.deletedResourceForeground": "#000000",      // 已删除的文件
+        // "gitDecoration.conflictingResourceForeground": "#000000"   // 冲突的文件
+    },
+}
